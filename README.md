@@ -1,4 +1,3 @@
-test-repo
-=========
+Hello World!
+My first GITHUB repo! :)
 
-test repo
